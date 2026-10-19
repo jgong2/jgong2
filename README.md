@@ -8,7 +8,7 @@ I have **20+ years of experience in quality and supplier quality**, and I'm now 
 
 ## What FTA does
 
-- 🏭 **On-site supplier audits** to ISO 9001 and IATF 16949
+- 🏭 **On-site supplier audits** to ISO 9001, IATF 16949 and ISO 13485 (medical devices)
 - 📋 **Supplier assessments** and readiness reviews
 - 🔁 **CAPA / SCAR closure** that follows corrective actions through to the end
 - 🤖 **SAA, the Supplier Audit Agent**: AI that turns audit documents and evidence into clear, defensible findings
