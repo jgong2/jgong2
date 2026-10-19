@@ -28,4 +28,6 @@ If you're working on something similar in AI, quality or supply chains, I'd love
 ## Let's connect
 
 I'm always happy to talk with people working on AI for quality, sourcing and supply chains.
-Reach me through [fta7ai.com](https://fta7ai.com).
+FTA's website is [fta7ai.com](https://fta7ai.com).
+
+> **Note:** fta7ai.com is currently password-protected and is not yet a public commercial website. Please don't spend time trying to get in. If you'd like to connect, follow me here on GitHub.
