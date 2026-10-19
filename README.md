@@ -2,7 +2,7 @@
 
 **Founder of [FTA](https://fta7ai.com)**, a 100% AI startup focused on **supplier quality auditing**, based in **Chicago**.
 
-> **Note:** fta7ai.com is currently password-protected and is not yet a public commercial website. Please don't spend time trying to get in. If you'd like to connect, say hi in my [collaboration discussion](https://github.com/jgong2/jgong2/discussions/1).
+> **Note:** fta7ai.com is password-protected and not yet public. To connect, say hi in my [collaboration discussion](https://github.com/jgong2/jgong2/discussions/1).
 
 I have **20+ years of experience in quality and supplier quality**, and I'm now building AI tools that help Western buyers see what's really happening on their suppliers' factory floors.
 
